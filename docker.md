@@ -46,7 +46,7 @@ Check for lates images on Docker Hub.
 
 3.  Node JS
 
-        docker pull node:18.3.0-alpine3.15
+        docker pull node:18.4.0-alpine3.16
 
 4.  Nginx
 
